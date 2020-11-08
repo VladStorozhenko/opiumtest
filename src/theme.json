@@ -1,0 +1,176 @@
+{
+  "meta": {
+    "name": "Opium Pro Banks Landing",
+    "version": "1.0",
+    "contact": "http://opium.pro",
+    "description": ""
+  },
+
+  "themeContext": {
+    "shallInverseOn": ["base", "faint"]
+  },
+
+  "customVariables": {
+    "auxiliary": "#6477DE",
+    "fancy-auxiliary-1": "linear-gradient(90deg, #000000 -14.13%, #6579E1 100%)",
+    "fancy-auxiliary-2": "linear-gradient(109.64deg, #04F3AE 1.7%, #33C3FE 35.3%, #6579E1 61.99%), linear-gradient(0deg, #FFFFFF, #FFFFFF)",
+    "hero-blue": "linear-gradient(109.64deg, #04F3AE 1.7%, #33C3FE 35.3%, #6579E1 61.99%), linear-gradient(0deg, #FFFFFF, #FFFFFF)",
+    "subtitle-color": "#AEB7C4"
+  },
+
+  "fill": {
+    "base": {
+      "strong": "#fff",
+      "weak": "#171618"
+    },
+    "faint": {
+      "strong": "#858585",
+      "strond-down": "#4F4F4F",
+      "strong-up": "#AEB7C4",
+      "weak": "#68717D"
+    },
+    "accent": {
+      "strong": "#14BA8A",
+      "strong-up": "#0E956E",
+      "weak": "#089D82"
+    },
+    "complement": {
+      "strong": "#33C3FE",
+      "weak": "#C3A2F8"
+    },
+    "critic": {
+      "strong": "#DB7A7A",
+      "weak": "#FF9F97"
+    },
+    "warning": {
+      "strong": "#6477DE"
+    }
+  },
+  
+  "fancy-fill": {
+    "accent": {
+      "strong": "linear-gradient(90deg, #000000 -14.13%, #13BB8B 100%)"
+    },
+
+    "complement": {
+      "strong": "linear-gradient(90deg, #000000 -14.13%, #33C3FE 100%)"
+    },
+    "warning": {
+      "strong": "linear-gradient(90deg, #000000 -14.13%, #6579E1 100%)"
+    }
+  },
+
+  "box": {
+    "radius": {
+      "xs": "1px",
+      "sm": "4px",
+      "md": "12px",
+      "lg": "16px",
+      "xl": "20px",
+      "x2l": "40px",
+      "x3l": "60px"
+    },
+    "shadow": {
+      "md": "0px 20px 40px rgba(0, 0, 0, 0.08)",
+      "lg": "0px 20px 40px rgba(0, 0, 0, 0.15)"
+    },
+    "blur": {
+      "md": "20px",
+      "lg": "60px"
+    }
+  },
+
+  "font": {
+    "family": {
+      "regular": "'Montserrat', sans-serif"
+    },
+    "fill": {
+      "faint": {
+      "weak": "#68717D"
+      },
+      "accent": {
+        "weak": "#089D82"
+      }
+    },
+    "line-height": {
+      "xs": "1",
+      "sm": "1.2",
+      "md": "1.5"
+    },
+    "letter-spacing": {
+      "md": "0",
+      "lg": "0.05em"
+    },
+    "size": {
+      "xs": "0.75rem",
+      "sm": "0.87rem",
+      "md": "1rem",
+      "lg": "1.25rem",
+      "xl": "2rem",
+      "x2l": "3rem",
+      "x3l": "4rem"
+    }
+  },
+
+  "line": {
+    "fill": {
+      "faint": {
+        "strong": "#AAAAAA"
+      }
+    },
+    "weight": {
+      "md": "1px",
+      "lg": "2px"
+    }
+  },
+
+  "icon": {
+    "fill": {
+      "faint": {
+        "weak": "rgba(237, 241, 247, 0.5)"
+      },
+      "accent": {
+        "weak": "#FFDD1F"
+      }
+    },
+    "size": {
+      "xs": "1rem",
+      "sm": "1.5rem",
+      "md": "2rem",
+      "lg": "3rem",
+      "xl": "4rem",
+      "x2l": "5rem",
+      "x3l": "13rem"
+    }
+  },
+
+  "gap": {
+    "x2s": "4px",
+    "xs": "8px",
+    "sm": "16px",
+    "md": "24px",
+    "lg": "32px",
+    "xl": "40px",
+    "x2l": "64px",
+    "x3l": "80px"
+  },
+
+  "reaction": {
+    "speed": {
+      "md": "0.25s",
+      "sm": "0.5s"
+    }
+  },
+
+  "effect": {
+    "transparency": {
+      "x2s": "0.95",
+      "xs": "0.9",
+      "sm": "0.75",
+      "md": "0.5",
+      "lg": "0.25",
+      "xl": "0.1",
+      "x2l": "0.05"
+    }
+  }
+}
