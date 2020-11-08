@@ -20,7 +20,7 @@ import { ReactComponent as deliverables2 } from "./icons/deliverables-2.svg";
 import { ReactComponent as deliverables3 } from "./icons/deliverables-3.svg";
 import { ReactComponent as deliverables4 } from "./icons/deliverables-4.svg";
 
-export const path = "/offer/bank";
+// export const path = "/offer/bank";
 
 const md = { deliverables1, deliverables2, deliverables3, deliverables4 };
 
@@ -52,12 +52,12 @@ export default function () {
 			<Box.TryTagless fill="base">
 				<Switch>
 					<Route
-						path={path}
+						path='/'
 						component={() => LandingBanks(dataEn)}
 						exact={true}
 					/>
 
-					<Route path={path + "/ru"} component={() => LandingBanks(dataRu)} />
+					<Route path="/ru" component={() => LandingBanks(dataRu)} />
 				</Switch>
 			</Box.TryTagless>
 		</Theme>

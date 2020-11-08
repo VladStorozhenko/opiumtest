@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/opiumtest/static/css/main.f4d643dc.chunk.css",
+    "main.js": "/opiumtest/static/js/main.b0d888eb.chunk.js",
+    "main.js.map": "/opiumtest/static/js/main.b0d888eb.chunk.js.map",
+    "runtime-main.js": "/opiumtest/static/js/runtime-main.841f6bc9.js",
+    "runtime-main.js.map": "/opiumtest/static/js/runtime-main.841f6bc9.js.map",
+    "static/css/2.4fa0a5ae.chunk.css": "/opiumtest/static/css/2.4fa0a5ae.chunk.css",
+    "static/js/2.2f343fc0.chunk.js": "/opiumtest/static/js/2.2f343fc0.chunk.js",
+    "static/js/2.2f343fc0.chunk.js.map": "/opiumtest/static/js/2.2f343fc0.chunk.js.map",
+    "static/css/3.4ee829a7.chunk.css": "/opiumtest/static/css/3.4ee829a7.chunk.css",
+    "static/js/3.e86c00b2.chunk.js": "/opiumtest/static/js/3.e86c00b2.chunk.js",
+    "static/js/3.e86c00b2.chunk.js.map": "/opiumtest/static/js/3.e86c00b2.chunk.js.map",
+    "index.html": "/opiumtest/index.html",
+    "static/css/2.4fa0a5ae.chunk.css.map": "/opiumtest/static/css/2.4fa0a5ae.chunk.css.map",
+    "static/css/3.4ee829a7.chunk.css.map": "/opiumtest/static/css/3.4ee829a7.chunk.css.map",
+    "static/css/main.f4d643dc.chunk.css.map": "/opiumtest/static/css/main.f4d643dc.chunk.css.map",
+    "static/js/2.2f343fc0.chunk.js.LICENSE.txt": "/opiumtest/static/js/2.2f343fc0.chunk.js.LICENSE.txt",
+    "static/media/deliverables-1.f716fca7.svg": "/opiumtest/static/media/deliverables-1.f716fca7.svg",
+    "static/media/deliverables-2.5655df91.svg": "/opiumtest/static/media/deliverables-2.5655df91.svg",
+    "static/media/deliverables-3.38a74530.svg": "/opiumtest/static/media/deliverables-3.38a74530.svg",
+    "static/media/deliverables-4.ff2ebe10.svg": "/opiumtest/static/media/deliverables-4.ff2ebe10.svg",
+    "static/media/gazprombank.4e6efaf6.svg": "/opiumtest/static/media/gazprombank.4e6efaf6.svg",
+    "static/media/gazprombankEng.e2a1a1a8.svg": "/opiumtest/static/media/gazprombankEng.e2a1a1a8.svg",
+    "static/media/header-logo.a5c34255.svg": "/opiumtest/static/media/header-logo.a5c34255.svg",
+    "static/media/jtc.1abc05b6.svg": "/opiumtest/static/media/jtc.1abc05b6.svg",
+    "static/media/otkritie.7bc1476b.svg": "/opiumtest/static/media/otkritie.7bc1476b.svg",
+    "static/media/otkritieEng.00d87183.svg": "/opiumtest/static/media/otkritieEng.00d87183.svg",
+    "static/media/vtb.f2f1681a.svg": "/opiumtest/static/media/vtb.f2f1681a.svg",
+    "static/media/vtbEng.464ac9af.svg": "/opiumtest/static/media/vtbEng.464ac9af.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.841f6bc9.js",
+    "static/css/2.4fa0a5ae.chunk.css",
+    "static/js/2.2f343fc0.chunk.js",
+    "static/css/main.f4d643dc.chunk.css",
+    "static/js/main.b0d888eb.chunk.js"
+  ]
+}

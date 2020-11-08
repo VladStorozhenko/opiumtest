@@ -4,11 +4,9 @@ import LandingBanks from './LandingBanks';
 
 import {BrowserRouter} from 'react-router-dom'
 
-import {Font} from 'themeor'
-
 ReactDOM.render(
   <React.StrictMode>
-    <BrowserRouter>
+    <BrowserRouter >
       <LandingBanks />
     </BrowserRouter>
   </React.StrictMode>,
